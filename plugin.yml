@@ -1,0 +1,5 @@
+name: NewMobCash
+main: NewMobCash.Main
+version: 0.3
+author: Luk_3D
+depend: [Vault, ProRankSkyblock, SkyblockAddons]
