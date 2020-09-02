@@ -1,5 +1,5 @@
 name: NewMobCash
-main: NewMobCash.Main
+main: it.evermine.newmobcash.NewMobCash
 version: 0.3
-author: Luk_3D
-depend: [Vault, ProRankSkyblock, SkyblockAddons]
+author: claxon007
+depend: [EverLibrary, ProRankSkyblock, SkyblockAddons]

@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/Utente/Downloads/spigot-1.12.2.jar" sourcepath="C:/Users/Utente/Spigot/Spigot-API.zip"/>
-	<classpathentry kind="lib" path="D:/Utente/Downloads/Vault-1.4.1 (1).jar"/>
-	<classpathentry kind="lib" path="D:/Utente/Desktop/Da fixare/ProRankSkyblock.jar"/>
-	<classpathentry kind="lib" path="D:/Utente/Desktop/Da fixare/SkyblockAddons.jar"/>
+	<classpathentry kind="lib" path="D:/Developing/Spigots/spigot-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developing/IntelliJ/SkyBlockAddons/target/SkyBlockAddons-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Developing/IntelliJ/ProRankSkyblock/target/ProRankSkyblock-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Developing/IntelliJ/EverLibrary/target/EverLibrary-2.2.0.0-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
